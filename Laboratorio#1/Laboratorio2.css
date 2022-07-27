@@ -1,0 +1,41 @@
+* {
+  font-family:calibri;
+   margin:0;
+    padding:0;
+}
+
+.logo {
+    font-size:40px;
+     font-weight:bold;color:rgb(28, 194, 111);
+      font-style:calibri;
+    }
+
+.intro {
+    color:rgb(6, 122, 93);
+     font-style:italic;
+      margin:10px 0;
+    }
+    
+.menu {
+    background:rgb(51, 172, 111);
+     color:#fff; 
+     height:40px;
+      line-height:40px;
+      letter-spacing:1px;
+       width:100%;
+    }
+
+.content {
+    margin-top:10px;
+}
+.menu-padding {
+    padding-top:40px;
+}
+
+.content {
+    padding:10px;
+}
+
+.content p {
+    margin-bottom:20px;
+}
